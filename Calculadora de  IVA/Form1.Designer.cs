@@ -80,9 +80,9 @@
             this.label4.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.Location = new System.Drawing.Point(410, 87);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(172, 16);
+            this.label4.Size = new System.Drawing.Size(57, 16);
             this.label4.TabIndex = 4;
-            this.label4.Text = "El IVA a calcular es del 19%";
+            this.label4.Text = "IVA 19%";
             // 
             // btncalcular
             // 
